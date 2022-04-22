@@ -7,7 +7,7 @@
 3. Type the command `code .` to open VSC with the JavaScript_Variables folder
 4. Open the app.js file
 
-## Exercise 1: Declaring Variables
+## Exercise 1: Declaring Variables /*done*/
 
 1. Declare a variable named firstName using the `const` keyword, and assign your name as the string value
 2. Declare a variable named lastName using the `let` keyword, and assign your name as the string value
